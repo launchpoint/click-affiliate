@@ -1,0 +1,3 @@
+<?
+
+define('VISITABLE_TIMEOUT', 60*60*24);
